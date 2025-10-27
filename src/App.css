@@ -1,0 +1,12 @@
+.app {
+  text-align: center;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+.cards {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
